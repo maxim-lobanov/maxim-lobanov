@@ -3,13 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-lobanov/)
 [![Private Email](https://img.shields.io/badge/email-makslobanov95@gmail.com-D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:makslobanov95@gmail.com)
 
-I'm Maxim, a Software Engineer based in Russia, passionate on open-source community and writing beautiful, maintainable and tested code. Along with writing code, I'm also passionate about DevOps stuff and build automation.  
-I am working at Akvelon as GitHub contractor.
+I'm Maxim, a Senior Software Engineer in GitHub Inc. I am located in Amsterdam where recently relocated from Russia. Passionate on open-source community and writing beautiful, maintainable and tested code. Along with writing code, I'm also passionate about DevOps stuff and build automation.  
 
 - 🔭 I’m currently working on [GitHub Actions](https://github.com/features/actions) project
 - 🌱 I’m currently learning Go
 - ❤️  I love to contribute to open source projects
-- 💬 Ask me about anything tech
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play League of Legends and some Xbox games. 
 
